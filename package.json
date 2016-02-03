@@ -1,0 +1,26 @@
+{
+  "name": "color-utils",
+  "version": "1.0.6",
+  "description": "Utils and helpers for color manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hellopath@github.com/hellopath/color-utils.git"
+  },
+  "keywords": [
+    "color",
+    "utils",
+    "helpers"
+  ],
+  "author": "hellopath <contact@pa-th.com> (http://pa-th.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellopath/color-utils/issues"
+  },
+  "homepage": "https://github.com/hellopath/color-utils#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
